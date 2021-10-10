@@ -11,4 +11,3 @@ you can see our matrix in googleMatrix3.csv, it show the influce between every m
 ![](./Figure_1.png)
 
 In addition, we use Topsis algorithm to rank the influence of each musician and select the most influential musician
-
